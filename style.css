@@ -1,0 +1,16 @@
+#container{
+	width: 100px;
+  margin: auto;
+  border: 3px solid lightskyblue;
+  padding: 5px;
+  border-radius: 20px;
+}
+h1{
+	font-size: 20px;
+}
+input{
+	width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border-radius: 10px;
+}
